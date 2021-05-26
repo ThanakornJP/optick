@@ -9,8 +9,8 @@ const Index = () => {
     //return <div>Welcome to App</div>;
     return (
         <div className="container">
-            <Header />
-            <Content />
+            <Header name="cz" />
+            <Content name="cz" />
         </div>
     );
 };
