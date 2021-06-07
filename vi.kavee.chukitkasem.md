@@ -1,0 +1,215 @@
+
+
+
+
+
+# Invest like กวี ชูกิจเกษม
+`Mitigate risk, increase return`
+
+### Sterotype, Habit, Find tune
+
+###### Brief
+
+
+###### Type of players
+1. speculator
+1.1 speculator - barely fundamentally analyzing 
+1.2 momentum investor 
+> buy/sell when event or technical analysis is triggered
+
+2. investor
+> buy/sell when fundamental analysis changes permanently or found something better
+
+###### Habits
+1. happy to invest
+2. not be slave to money; but to use money as slave. 
+
+> It doesn't require any execellence to find stocks to invest. However, excellent investors know where to find good stocks
+
+> investment portfolio is the key
+
+> You will eventually sell off what is unnecessary, Wallen Buffet
+
+> He that eats the hard shall eat the ripe. Invest with only your savings not cashflow. 
+
+
+3. Dare to decide 
+
+> Good can teach, but Brave can't. Excellent investor must be good to strategize and brave to make decision
+
+> Select stocks that you know not because of its cheaper cost. 
+
+> track and pay attention to company that you are interested 
+
+4. Positive thinking
+
+> be very positive to investment and very convinced only investment can get you the financial freedom 
+
+
+5. Patience
+
+> Patient to failure, opportunity to enter, opportunity to exit, 
+
+> For 15-year investment plan, there is no lost but return from the market
+
+6. Never speculate
+
+> the less speculation, the less risk 
+
+
+7. Self commitment
+
+> analyze and admit everything yourself not from other analysts
+
+8. Balance
+
+> Investment is like marathon not quick race, so keep ourself healthy is the very key to success. No one takes care of your goods better than you.
+
+###### Key sucess
+
+> Risk mitigation and return optimization are the only key not techniques
+
+---
+### Step 1 - Scan
+
+> find good (SME, Mid Market) companies that yield > 12% PA for over 10 years
+
+> financial statement is the compass
+
+###### Properties of 1000% company in next 10 years
+1. grow consistently in long-term 
+2. have bargain power
+3. be leader in industry
+4. invest in what they are specialised 
+5. strong financial statement 
+6. no need big investment in the future
+7. no need large customer to make revenue
+8. have good and governed executive 
+
+###### Financial statement's component
+1. balance sheet
+2. cashflow statement
+3. income statement (profit and loss statement)
+
+> the hardest part is to decipher financial ratio
+
+###### Financial ratio from income statement
+1. Net profit per share 
+>  consistently increased EPS reflects positively competitive advantage in long run rathen than fluctating between profit and loss
+
+2. Gross profit margin 
+> the longer GPM, the stronger competitive advantage 
+
+3. Expense per Revenue
+> The lower cost of goods sold (COGS), the stronger brand it is. Avoid those whose EPR is fluctutated
+
+4. Interest expense
+> the lower expense, the lower COGS, the higher potential to make profit 
+
+5. Net profit margin
+> consistenly increase NPM reflects good company
+
+###### Financial ratio from balance sheet
+1. debt
+> the lower, the better, the longer stability
+2. fluidity, current ratio - use for debenture analysis
+> ratio isn't the indicator to evaluate company
+3. Return on Equity 
+> consistently increased ROE is better for long term
+4. Return on Asset 
+> the higher, the better, the more worth of investment
+> Too high ROA brings new competitors who they might have more potential 
+5. return on dividend
+> consistently increased ROE is better for cash flow 
+
+
+###### Valuation
+1. Top-down
+2. Bottom-up
+3. Dividend 
+4. P/E
+5. P/BV
+
+
+### Step 2 - Buy only if it is cheap
+
+
+
+### Step 3 - Deversify
+
+`total risk = unsystemetic risk + systemetic risk`
+
+> idea: we must invest > 30 stocks to mitigate unsystemetic risk
+> recommed: we should invest 10 <= # of stocks <= 15
+
+###### Approaches
+1. manage it yourself: DCA on 10 diversified stocks   
+2. thru fund manager: DCA on 2-3 diversified funds 
+
+### Step 4 - Track
+> require skillful, patient, decisive 
+
+> financial report: quarterly, mid-year, fiscal year
+
+> Don't let lost trade be with us for so long. Cut it fast, Warren Buffet
+
+###### What to be analyzed
+1. revenue - รายได้
+2. gross profit margin - อัตรากำไรขั้นต้น
+3. SG&A ratio - อัตราส่วนค่าใช้จากการบริหารต่อรายได้
+4. interest expense - อัตราส่วนค่าใช้จ่ายดอกเบี้ยต่อกำไรก่อนดอกเบี้ยและภาษี
+
+### Step 5 - Project long-term
+
+> Don't waste your time on speculation but profiling your portfolio
+
+> discipline = long-term investment 
+> patience = wait for good opportunity to buy and sell. hold it patiently
+
+### Step 6 - Continuously improve 
+
+`watchlist keeps your portfolio healthy`
+
+> always manage watchlist and portfolio
+
+---
+### Note 
+
+###### What to be analyzed every quarter
+1. eps
+2. gpm
+3. sg&a to sales
+4. interest expense to EBIT
+5. intetest bearing debt to equityroe
+6. good governance of executive
+7. how keen you are for that particular stock
+
+
+###### Budgeting Planning
+- DCF on 50:50 between equity market and highly liquidable instruments
+
+###### Industry and Valuation Method
+
+###### Margin of Safety
+
+###### Valuation Obstacles 
+
+---
+### Quote
+
+> Owning companies thru owning equities is the quickest way to run the company with lowest risk (no loan, no management, etc.)
+
+> Long-term wealth requires well-managed potfolio
+
+> speculate with discipline only
+
+> Thailand (SET) returns 12% PA
+
+---
+## Existing
+split tunnel 
+
+## Big Surf
+NAT mode
+
+
