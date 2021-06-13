@@ -1,12 +1,13 @@
 # Invest like กวี ชูกิจเกษม
 `Mitigate risk, increase return`
 
-### Sterotype, Habit, Find tune
+---
+# Sterotype, Habit, Find tune
 
-###### Brief
+### Brief
+????
 
-
-###### Type of players
+### Type of players
 1. speculator
 1.1 speculator - barely fundamentally analyzing 
 1.2 momentum investor 
@@ -15,7 +16,7 @@
 2. investor
 > buy/sell when fundamental analysis changes permanently or found something better
 
-###### Habits
+### Habits
 1. happy to invest
 2. not be slave to money; but to use money as slave. 
 
@@ -60,18 +61,18 @@
 
 > Investment is like marathon not quick race, so keep ourself healthy is the very key to success. No one takes care of your goods better than you.
 
-###### Key sucess
+### Key sucess
 
 > Risk mitigation and return optimization are the only key not techniques
 
 ---
-### Step 1 - Scan
+# Step 1 - Scan
 
 > find good (SME, Mid Market) companies that yield > 12% PA for over 10 years
 
 > financial statement is the compass
 
-###### Properties of 1000% company in next 10 years
+### Properties of 1000% company in next 10 years
 1. grow consistently in long-term 
 2. have bargain power
 3. be leader in industry
@@ -81,14 +82,14 @@
 7. no need large customer to make revenue
 8. have good and governed executive 
 
-###### Financial statement's component
+### Financial statement's component
 1. balance sheet
 2. cashflow statement
 3. income statement (profit and loss statement)
 
 > the hardest part is to decipher financial ratio
 
-###### Financial ratio from income statement
+### Financial ratio from income statement
 1. Net profit per share 
 >  consistently increased EPS reflects positively competitive advantage in long run rathen than fluctating between profit and loss
 
@@ -104,7 +105,7 @@
 5. Net profit margin
 > consistenly increase NPM reflects good company
 
-###### Financial ratio from balance sheet
+### Financial ratio from balance sheet
 1. Debt
 > the lower, the better, the longer stability
 2. fluidity, current ratio - use for debenture analysis
@@ -118,7 +119,7 @@
 > consistently increased ROE is better for cash flow 
 
 
-###### Valuation 
+### Valuation 
 
 > Price is what you pay. Value is what you get
 
@@ -140,51 +141,51 @@
 
 
 
-### Step 2 - Buy only if it is cheap
+# Step 2 - Buy only if it is cheap
+????
 
 
-
-### Step 3 - Deversify
+# Step 3 - Deversify
 
 `total risk = unsystemetic risk + systemetic risk`
 
 > idea: we must invest > 30 stocks to mitigate unsystemetic risk
 > recommed: we should invest 10 <= # of stocks <= 15
 
-###### Approaches
+### Approaches
 1. manage it yourself: DCA on 10 diversified stocks   
 2. thru fund manager: DCA on 2-3 diversified funds 
 
-### Step 4 - Track
+# Step 4 - Track
 > require skillful, patient, decisive 
 
 > financial report: quarterly, mid-year, fiscal year
 
 > Don't let lost trade be with us for so long. Cut it fast, Warren Buffet
 
-###### What to be analyzed
+### What to be analyzed
 1. revenue - รายได้
 2. gross profit margin - อัตรากำไรขั้นต้น
 3. SG&A ratio - อัตราส่วนค่าใช้จากการบริหารต่อรายได้
 4. interest expense - อัตราส่วนค่าใช้จ่ายดอกเบี้ยต่อกำไรก่อนดอกเบี้ยและภาษี
 
-### Step 5 - Project long-term
+# Step 5 - Project long-term
 
 > Don't waste your time on speculation but profiling your portfolio
 
 > discipline = long-term investment 
 > patience = wait for good opportunity to buy and sell. hold it patiently
 
-### Step 6 - Continuously improve 
+# Step 6 - Continuously improve 
 
 `watchlist keeps your portfolio healthy`
 
 > always manage watchlist and portfolio
 
 ---
-### Note 
+# Note 
 
-###### VI Philosophy - **patient** for right *stock* and *timing*
+### VI Philosophy - **patient** for right *stock* and *timing*
 1. look for good fundamental company 
     1. quantity approach - กำไรสุทธิต่อหุ้นเติบโตสม่ำเสมอ(EPS),อำนาจต่อรองกับลูกค้าสูง(GPM), high share market or market leader,ฐานะทางการเงินแข็งแกร่ง,ความสามารถในการทำกำไรสูง(ROE),ผู้บริหารเป็นมืออาชีพและมีธรรมาภิบาล
     2. quality approach (5 forces model)
@@ -203,7 +204,7 @@
 5. be accountable and discipline for what you do
 6. log, research and improve always
 
-###### What to be analyzed every quarter
+### What to be analyzed every quarter
 1. eps
 2. gpm
 3. sg&a to sales
@@ -213,17 +214,17 @@
 7. how keen you are for that particular stock
 
 
-###### Budgeting Planning
+### Budgeting Planning
 - DCF on 50:50 between equity market and highly liquidable instruments
 
-###### Industry and Valuation Method
+### Industry and Valuation Method
 
-###### Margin of Safety
+### Margin of Safety
 
-###### Valuation Obstacles 
+### Valuation Obstacles 
 
 ---
-### Quote
+# Quote
 
 > Owning companies thru owning equities is the quickest way to run the company with lowest risk (no loan, no management, etc.)
 
@@ -232,12 +233,3 @@
 > speculate with discipline only
 
 > Thailand (SET) returns 12% PA
-
----
-## Existing
-split tunnel 
-
-## Big Surf
-NAT mode
-
-
