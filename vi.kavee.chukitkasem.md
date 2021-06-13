@@ -1,8 +1,3 @@
-
-
-
-
-
 # Invest like กวี ชูกิจเกษม
 `Mitigate risk, increase return`
 
@@ -110,7 +105,7 @@
 > consistenly increase NPM reflects good company
 
 ###### Financial ratio from balance sheet
-1. debt
+1. Debt
 > the lower, the better, the longer stability
 2. fluidity, current ratio - use for debenture analysis
 > ratio isn't the indicator to evaluate company
@@ -123,12 +118,26 @@
 > consistently increased ROE is better for cash flow 
 
 
-###### Valuation
-1. Top-down
-2. Bottom-up
-3. Dividend 
-4. P/E
-5. P/BV
+###### Valuation 
+
+> Price is what you pay. Value is what you get
+
+> It is required to find stock fundamentally for value investment. 
+
+> **Patience** is the key. Patient to wait until price comes back to reasonable/expecting level, until you know what you're going to buy, until you know reason to sell/hold
+
+> We do it to awake intuition when you wait for buying starbuck 50% off. We know their scent and taste so it's worth waiting to buy when it's cheap/discounted 
+
+1. Tool - simple yet practical (no non-presice inside required)
+1.1 Dividend 
+1.2 P/E
+1.3 P/BV
+
+2. Approach
+2.1 Top-down
+2.2 Bottom-up
+
+
 
 
 ### Step 2 - Buy only if it is cheap
@@ -174,6 +183,25 @@
 
 ---
 ### Note 
+
+###### VI Philosophy - **patient** for right *stock* and *timing*
+1. look for good fundamental company 
+    1. quantity approach - กำไรสุทธิต่อหุ้นเติบโตสม่ำเสมอ(EPS),อำนาจต่อรองกับลูกค้าสูง(GPM), high share market or market leader,ฐานะทางการเงินแข็งแกร่ง,ความสามารถในการทำกำไรสูง(ROE),ผู้บริหารเป็นมืออาชีพและมีธรรมาภิบาล
+    2. quality approach (5 forces model)
+        - 3 forces for selection - ดูแลต้นทุนได้ดีแค่ไหน,สามารถขึ้นราคาสินค้า/บริการได้,เป็นผู้นำในธุรกิจ
+        - 2 forces for decision - คู่แข่งที่จะเข้ามา,ระวังสินค้าทดแทน
+    Note: what not to invest
+        1. company that must greatly invest for making revenue
+        2. tech. company (if you ain't keen in technology)
+        3. auction company
+        4. commodity company (highly fluctuating)
+        5. company that depends on particular executive
+        6. company that you don't know - mission, vision, executive, products, competitor, etc. 
+2. buy only when it is cheap 
+3. hold until it changes fundamentally or found sth better
+4. mitigate risks by diversifying portfolio and holding long period
+5. be accountable and discipline for what you do
+6. log, research and improve always
 
 ###### What to be analyzed every quarter
 1. eps
